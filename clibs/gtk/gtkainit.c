@@ -88,7 +88,7 @@ static void adjust_default_font()
     }
 }
 
-static gtk_window_tweak_class()
+static void gtk_window_tweak_class()
 {
     GObjectClass *objClass = G_OBJECT_CLASS(g_type_class_ref(GTK_TYPE_WINDOW));
 
